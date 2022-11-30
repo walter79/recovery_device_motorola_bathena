@@ -23,7 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 # Inherit from guamp device
-$(call inherit-product, device/motorola/guamp/device.mk)
+$(call inherit-product, device/motorola/bathena/device.mk)
 
 # Inherit some common TWRP stuff.
 $(call inherit-product, vendor/twrp/config/common.mk)
@@ -32,8 +32,8 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 PRODUCT_RELEASE_NAME := guamp
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := guamp
-PRODUCT_NAME := twrp_guamp
+PRODUCT_DEVICE := bathena
+PRODUCT_NAME := twrp_bathena
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := moto g(9)
+PRODUCT_MODEL := moto defy
 PRODUCT_MANUFACTURER := motorola
