@@ -15,7 +15,7 @@ Front Camera | 8 MP, f/2.2, 1.12µm
 Release Date | 2021, June 17
 
 
-## Working :
+## not tested - touchscreen not working :
 
 - ADB
 
