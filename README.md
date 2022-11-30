@@ -35,7 +35,7 @@ Release Date | 2021, June 17
 
 ## To compile
 
-- build/envsetup.sh
+- . build/envsetup.sh
 
 - export ALLOW_MISSING_DEPENDENCIES=true
 
