@@ -1,18 +1,18 @@
-![Moto G9 Play](https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g9-play.jpg "Moto G9 Play")
+![Moto Defy 2021](https://fdn2.gsmarena.com/vv/bigpic/motorola-defy-2021.jpg "Moto Defy 2021")
 =====================================================
 Basic   | Specs
 -------:|:-------------------------
 CPU     | Qualcomm SM6115 Snapdragon 662 (11 nm)
 GPU     | Adreno 610
 Memory  | 4 GB
-Storage | 64GB / 128GB
-Os      | Android 10
+Storage | 64GB
+Os      | Android 10 or 11
 Battery | 5000 mAh (non-removable)
-Dimensions | 165.2 x 75.7 x 9.2 mm (6.50 x 2.98 x 0.36 in)
+Dimensions | 169.8 x 78.2 x 10.9 mm (6.69 x 3.08 x 0.43 in)
 Display |  6.5 inches 720 x 1600 pixels
-Rear Camera  | 48 MP, f/1.7, (wide), 1/2.0", 0.8µm, PDAF, 2 MP, f/2.4, (macro), 2 MP, f/2.4, (depth)
+Rear Camera  | 48 MP, f/1.8, 2 MP, f/2.4, (macro), 2 MP, f/2.4, (depth)
 Front Camera | 8 MP, f/2.2, 1.12µm
-Release Date | 2020, August 24
+Release Date | 2021, June 17
 
 
 ## Working :
