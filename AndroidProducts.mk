@@ -20,6 +20,6 @@ PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/twrp_bathena.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_guamp-user \
-    twrp_guamp-userdebug \
-    twrp_guamp-eng
+    twrp_bathena-user \
+    twrp_bathena-userdebug \
+    twrp_bathena-eng
