@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/motorola/guamp
+DEVICE_PATH := device/motorola/bathena
 
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := bengal
