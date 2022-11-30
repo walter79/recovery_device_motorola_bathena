@@ -29,7 +29,7 @@ $(call inherit-product, device/motorola/bathena/device.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Release name
-PRODUCT_RELEASE_NAME := guamp
+PRODUCT_RELEASE_NAME := bathena
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := bathena
