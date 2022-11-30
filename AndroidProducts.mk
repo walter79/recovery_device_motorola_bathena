@@ -17,7 +17,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_guamp.mk
+     $(LOCAL_DIR)/twrp_bathena.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_guamp-user \
